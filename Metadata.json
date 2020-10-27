@@ -1,0 +1,20 @@
+{
+    "Author": "Rich Shillington",
+    "ContentSize": 11560,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-storage-accounts-without-virtual-network-service-endpoints/master/Get-AzureStorageAccountsWithNoVnetsOrServiceEndpoints.ps1",
+    "DownloadCount": 556,
+    "Id": "Find-Storage-Accounts-76baaaff",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 484,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-11-13T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "PowerShell Script to find all Storage Accounts in All Subscription without Virtual Network Service Endpoints.This script will search through all your Azure Subscriptions and locate any Storage Accounts that have no Virtual Network Service Endpoints or Virtual Networks assigned.",
+    "Title": "Find Storage Accounts without Virtual Network Service Endpoints",
+    "UpdatedDate": "2018-11-15T00:00:00",
+    "Url": "https://github.com/azureautomation/find-storage-accounts-without-virtual-network-service-endpoints",
+    "UserTags": "Microsoft Azure, Powershell, Virtual Networks"
+}
